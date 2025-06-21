@@ -24,8 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](https://imgur.com/a/0LgrElm)
-<!-- <img src='https://imgur.com/a/0LgrElm' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+<img src='https://i.imgur.com/2TZ9Exu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Microsoft Clipchamp  
