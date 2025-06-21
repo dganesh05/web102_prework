@@ -22,9 +22,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented features: <a href="https://i.imgur.com/2TZ9Exu.gif">https://i.imgur.com/2TZ9Exu.gif</a>
 
-<img src='https://i.imgur.com/2TZ9Exu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/2TZ9Exu.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Microsoft Clipchamp  
